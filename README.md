@@ -14,3 +14,5 @@ Listening on http://0.0.0.0:10060...
 Open http://0.0.0.0:10060 in a browser.
 
 Note: Your Redirect_URI in the Integration's settings on Developer Webex Teams site should be: http://0.0.0.0:10060/oauth or if you're using any other hosting platform it would be https://YOUR_SERVER/oauth
+
+More info on Webex Teams Integrations Docs: https://developer.webex.com/authentication.html
